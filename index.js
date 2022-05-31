@@ -2,7 +2,7 @@
 import './style.css';
 
 
-//Gráfico de columnas. Mi 1º gráfico
+//Gráfico de columnas. Mi 1r gráfico
 
 var visualization = d3plus.viz()
   .container("#viz1")
